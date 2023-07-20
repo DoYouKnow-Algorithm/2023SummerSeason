@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2023SummerSeason.iml" filepath="$PROJECT_DIR$/.idea/2023SummerSeason.iml" />
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Hj1218/_Q1303/_Q1303.iml" filepath="$PROJECT_DIR$/Hj1218/_Q1303/_Q1303.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/sunjae98/_V6_12123/_V6_12123.iml" filepath="$PROJECT_DIR$/sunjae98/_V6_12123/_V6_12123.iml" />
+>>>>>>> 1b74cd02c7c2237c9bc75bc0c8f10307f89ddf07
     </modules>
   </component>
 </project>
