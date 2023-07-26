@@ -19,7 +19,7 @@ public class Main {
                 else{ //원의 둘레가 그려져있지 않은 경우
                     if(j>a){
                         a = j-1;
-                        break; //원의 둘레가 그려진 타일의 x좌표는 모두 다름(같은 x좌표를 가진 타일 존재 x)
+                        break;
                     }
                 }
             }
