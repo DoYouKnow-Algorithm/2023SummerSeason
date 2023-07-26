@@ -1,4 +1,4 @@
-
+package Q1709.s2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -23,8 +23,8 @@ public class Main {
                     temp = x;
                 } else{ // 원주에 걸치지 않으면
                     if(x != temp){ // x와 temp가 같지 않으면(해당 범위가 원주에 걸치지 않는다는 의미)
-                        temp = x-1;
-                        break; // x가 같은 숫자인 것 중에 원주에 걸치는 건 하나이기 때문에 break
+                        temp = x-1; // x 이전 값부터 다시 탐색 (같은 x값에 두칸 다 원주에 걸칠 수도 있기 때문)
+                        break;
                     }
                 }
             }
