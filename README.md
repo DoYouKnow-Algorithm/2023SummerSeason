@@ -1,7 +1,7 @@
 # 2023SummerSeason
 
 ## 📔 activity report
-<b>[CBU_cafe](https://cafe.naver.com/cebuong)</b>
+<b>[🦉CBU_cafe🦉](https://cafe.naver.com/cebuong)</b>
 
 ## Week 1 Algorithm (7/13 ~ 7/19)
 <p>DFS && BFS</p>
