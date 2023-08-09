@@ -1,5 +1,8 @@
 # 2023SummerSeason
 
+## 📔 activity report
+<b>[CBU_cafe](https://cafe.naver.com/cebuong)</b>
+
 ## Week 1 Algorithm (7/13 ~ 7/19)
 <p>DFS && BFS</p>
 
@@ -23,7 +26,4 @@
 
 ## Week 8 Algorithm (8/24 ~ 8/30)
 <p></p>
-
-## 📔activity report
-📒 [CBU_cafe](https://cafe.naver.com/cebuong?iframe_url_utf8=%2FArticleRead.nhn%3FreferrerAllArticles%3Dfalse%26menuid%3D212%26page%3D1%26boardtype%3DL%26clubid%3D29973264%26articleid%3D1339)
 
