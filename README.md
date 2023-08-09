@@ -1,4 +1,4 @@
-# 2023SummerSeason
+# ☀️2023SummerSeason☀️
 
 ## 📔 activity report
 <b>[🦉CBU_cafe🦉](https://cafe.naver.com/cebuong)</b>
