@@ -6,8 +6,6 @@ import java.util.*;
 public class _13414 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
         StringTokenizer st = new StringTokenizer(br.readLine());
         int K = Integer.parseInt(st.nextToken());   //수강 가능 인원
         int L = Integer.parseInt(st.nextToken());   //대기목록의 길이
@@ -24,10 +22,16 @@ public class _13414 {
 
         Iterator<String> iterator = set.iterator();
         //K번째까지만 출력
-        while(K>0){
-            bw.write(iterator.next()+"\n");
-            K--;
+//        while(K>0){
+//            System.out.println(iterator.next());
+//            K--;
+//        }
+        int count=0;
+        for(String s:set){
+            if(count==K) break;
+            System.out.println(s);
+            count++;
         }
-        bw.close();
+        br.close();
     }
 }
