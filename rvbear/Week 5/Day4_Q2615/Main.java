@@ -45,7 +45,6 @@ public class Main {
         for(int j = 0; j < 19; j++) {
             for(int i = 0; i < 19; i++) {
                 if((map[i][j] == 1 || map[i][j] == 2)) {    // 바둑돌이 놓여젔을 경우
-                    int pre = map[i][j];                    // 바둑돌의 정보를 저장
                     if(check(i, j, map[i][j])) {            // check 함수를 통해 true가 반환되었다면 해당 정보들을 출력 후 return
                         bw.write(String.valueOf(map[i][j]) + "\n");
                         bw.write(String.valueOf(i+1) + " " + String.valueOf(j+1));
