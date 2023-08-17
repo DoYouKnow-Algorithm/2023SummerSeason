@@ -21,6 +21,7 @@ public class Main {
         for(int high : arrayList) {                                         // 결과값 출력
             System.out.print(high + " ");
         }
+        
         br.close();
     }
 }
