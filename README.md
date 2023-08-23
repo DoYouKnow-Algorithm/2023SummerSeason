@@ -19,7 +19,7 @@
 <p>Implementation</p>
 
 ## Week 6 Algorithm (8/10 ~ 8/16)
-<p></p>
+<p>Greedy</p>
 
 ## Week 7 Algorithm (8/17 ~ 8/23)
 <p></p>
