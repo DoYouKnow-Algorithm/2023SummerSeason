@@ -15,15 +15,8 @@
 ## Week 4 Algorithm (8/3 ~ 8/9)
 <p>TwoPointer</p>
 
-## Week 5 Algorithm (8/3 ~ 8/9)
+## Week 5 Algorithm (8/10 ~ 8/16)
 <p>Implementation</p>
 
-## Week 6 Algorithm (8/10 ~ 8/16)
+## Week 6 Algorithm (8/17 ~ 8/23)
 <p>Greedy</p>
-
-## Week 7 Algorithm (8/17 ~ 8/23)
-<p></p>
-
-## Week 8 Algorithm (8/24 ~ 8/30)
-<p></p>
-
