@@ -3,6 +3,11 @@
 ## 📔 activity report
 <b>[🦉CBU_cafe🦉](https://cafe.naver.com/cebuong)</b>
 
+## 🚀 How to proceed?
+### 1. Select Weekly Algorithm
+### 2. Solve 5 Problems in a week
+### 3. Review Problems and Codes on study day
+
 ## Week 1 Algorithm (7/13 ~ 7/19)
 <p>DFS && BFS</p>
 
